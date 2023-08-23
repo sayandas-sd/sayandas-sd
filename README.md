@@ -13,8 +13,6 @@
 - 📫 How to reach me **sayandasmac@gmail.com**
 
 - ⚡ Fun fact **I learned the tech stack as a game and i enjoy**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
